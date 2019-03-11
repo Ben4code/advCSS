@@ -1,0 +1,15 @@
+{
+  "name": "new_natoures",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "node-sass assets/sass/main.scss assets/style.css -w"
+  },
+  "author": "ben4code",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.11.0"
+  }
+}
