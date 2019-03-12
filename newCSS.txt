@@ -7,3 +7,9 @@ background-blend-mode: //screen, multiply
 filter: blur(0) brightness(0); //Collor correction.
 
 perspective: 1000; //Sets the perspective.
+
+visibility: hidden //Removes the element from the DOM
+
+> - Direct child selector
++ - Adjacent/Direct sibling selector
+~ - General sibling selector
