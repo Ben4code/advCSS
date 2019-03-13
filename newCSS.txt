@@ -13,3 +13,5 @@ visibility: hidden //Removes the element from the DOM
 > - Direct child selector
 + - Adjacent/Direct sibling selector
 ~ - General sibling selector
+
+You cannot animate an element with display none,
